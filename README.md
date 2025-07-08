@@ -1,3 +1,3 @@
 ## Hi there 👋
 Hi.<br>
-Auther Rahul
+Auther Rahul Singh
